@@ -1,7 +1,6 @@
 this is a git test file
 and weige is DALAO
 and CHENGXT is JULAO
-<<<<<<< HEAD
 bad ass
 :
 this is a new sto
